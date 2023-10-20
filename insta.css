@@ -1,0 +1,43 @@
+.text{
+    width: 500px;
+}
+.pass{
+    width: 500px;
+}
+input[type="text"]{
+    width: 250px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: rgba(183, 180, 180, 0.073);
+    border-radius: 2px;
+    border: 1px solid gray;
+}
+input[type="password"]{
+    width: 250px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: rgba(183, 180, 180, 0.073);
+    border-radius: 2px;
+    border: 1px solid gray;
+}
+.but{
+    width: 260px;
+    background-color: #2a94f8;
+    border: none;
+    border-radius: 3px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+}
+.sb{
+    border: none;
+}
+.butt{
+    width: 260px;
+    background-color: #2a94f8;
+    border: none;
+    border-radius: 3px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+}
